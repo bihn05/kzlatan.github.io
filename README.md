@@ -1,2 +1,2 @@
 # kzlatan.github.io
-Kzlatan Wensite
+Kzlatan Website
